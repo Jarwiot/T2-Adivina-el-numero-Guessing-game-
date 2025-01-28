@@ -1,0 +1,55 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  max-width: 700px;
+  min-width: 480px;
+  margin: 0 auto;
+}
+
+.form input[type="number"] {
+  width: 200px;
+}
+
+.lastResult {
+  color: white;
+  padding: 3px;
+}
+
+.lives {
+  margin-top: 10px;
+}
+
+#lifeBar {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+}
+
+.life {
+  width: 20px;
+  height: 20px;
+  background-color: rgb(33, 216, 12);
+  margin-right: 5px;
+  border-radius: 50%;
+}
+
+.header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #b9b9b9; 
+  padding: 20px;
+  border-bottom: 4px solid #000; 
+  width: 100vw;
+  margin: 0; 
+  box-sizing: border-box; 
+}
+
+h1 {
+  margin: 0;
+}
