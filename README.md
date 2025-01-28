@@ -1,1 +1,1 @@
-# T2-Adivina-el-numero-Guess-game-
+# T2-Adivina-el-numero-Guessing-game-
